@@ -4,6 +4,6 @@
 <hr></hr>
 <p>*Easy customisable</p>
 <p>*Simple Code</p>
-<p>*24-hour</p>
+<p>*24-hour format</p>
 <hr></hr>
 <img src="https://i.ibb.co/ncRqFJT/Capture.png">
