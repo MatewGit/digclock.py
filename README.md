@@ -1,4 +1,4 @@
 # digclock.py
 
 A customisable digital clock made in python.
-[img]https://ibb.co/hWCxSzk[/img]
+<img src="https://ibb.co/hWCxSzk">
