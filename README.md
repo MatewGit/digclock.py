@@ -5,4 +5,5 @@
 <p>*Easy customisable</p>
 <p>*Simple Code</p>
 <p>*24-hour</p>
+<hr><hr>
 <img src="https://i.ibb.co/ncRqFJT/Capture.png">
